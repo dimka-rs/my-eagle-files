@@ -1,0 +1,20 @@
+[Eagle]
+Version="04 16 20"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/dimka/eagle-lin-eng-4.16r2/lbr/con-lstb.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="31 63 630 462"
+State=1
+Number=0
+
+[Desktop]
+Screen="1280 1024"
+Window="Win_1"

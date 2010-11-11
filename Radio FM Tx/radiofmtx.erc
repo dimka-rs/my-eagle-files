@@ -1,0 +1,13 @@
+EAGLE Version 4.16r2 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for /home/alex/eagle/Radio FM Tx/radiofmtx.sch at 11/07/2007 21:21:57 
+
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to VCC
+WARNING: Sheet 1/1: POWER Pin IC1 V- connected to GND
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to VCC
+WARNING: Sheet 1/1: POWER Pin IC2 V- connected to GND
+
+Board and schematic are consistent
+
+    0 errors
+    4 warnings

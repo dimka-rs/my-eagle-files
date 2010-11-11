@@ -1,0 +1,38 @@
+Partlist
+
+Exported from mjoy.sch at 07.09.09 1:41
+
+EAGLE Version 5.6.0 Copyright (c) 1988-2009 CadSoft
+
+Part     Value          Device            Package     Library  Sheet
+
+C1       0.1u           C-EUC0805         C0805       rcl      1
+C2       22p            C-EUC0805         C0805       rcl      1
+C3       22p            C-EUC0805         C0805       rcl      1
+C4       0.1u           C-EUC0805         C0805       rcl      1
+C5       0.1u           C-EUC0805         C0805       rcl      1
+C6       0.1u           C-EUC0805         C0805       rcl      1
+C7       100u           CPOL-EUE          PANASONIC_E rcl      1
+D1       3.3V           ZENER-DIODESOD80C SOD80C      diode    1
+D2       3.3V           ZENER-DIODESOD80C SOD80C      diode    1
+IC1      MEGA8-AI       MEGA8-AI          TQFP32-08   atmel    1
+Q1       12MHz          CRYSTALHC49UP     HC49UP      crystal  1
+R1       10k            R-EU_R0805        R0805       rcl      1
+R2       10uH           R-EU_R1210        R1210       rcl      1
+R3       82             R-EU_R0805        R0805       rcl      1
+R4       82             R-EU_R0805        R0805       rcl      1
+R5       2k2            R-EU_R0805        R0805       rcl      1
+R6       4k7            R-EU_R0805        R0805       rcl      1
+R7       10k            R-EU_R0805        R0805       rcl      1
+R8       10k            R-EU_R0805        R0805       rcl      1
+R9       10k            R-EU_R0805        R0805       rcl      1
+R10      10k            R-EU_R0805        R0805       rcl      1
+SV1      R_SIG          MA08-1            MA08-1      con-lstb 1
+SV2      R_GND          MA08-1            MA08-1      con-lstb 1
+SV3      R_VCC          MA08-1            MA08-1      con-lstb 1
+SV4      BUT_X          MA04-1            MA04-1      con-lstb 1
+SV5      BUT_Y          MA07-1            MA07-1      con-lstb 1
+SV6      ISP            MA05-2            MA05-2      con-lstb 1
+SV8      R_AREF         MA03-1            MA03-1      con-lstb 1
+SV9      R_AGND         MA03-1            MA03-1      con-lstb 1
+X1       USB-B          PN61729           PN61729     con-berg 1

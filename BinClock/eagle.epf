@@ -1,0 +1,24 @@
+[Eagle]
+Version="05 08 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/dimka/eagle/lib/radiotronix.lbr"
+UsedLibrary="/home/dimka/eagle/lib/avr.lbr"
+UsedLibrary="/home/dimka/eagle/lib/button.lbr"
+UsedLibrary="/home/dimka/eagle/lib/con-lstb.lbr"
+UsedLibrary="/home/dimka/eagle/lib/kingbright.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 25 599 424"
+State=1
+Number=0
+
+[Desktop]
+Screen="1280 1024"
+Window="Win_1"

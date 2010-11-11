@@ -1,0 +1,11 @@
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for /home/dimka/eagle/BinClock/binclock.sch at  8/09/2007 02:03:40 
+
+WARNING: Sheet 1/1, Net GND: wire overlaps pin at (3.4 1.6)
+WARNING: Sheet 1/1: pins overlap at (3.4 1.6)
+
+Board and schematic are consistent
+
+    0 errors
+    2 warnings

@@ -1,0 +1,12 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Dimka/eagle/projects/watchdog/watchdog.sch at 25.04.2007 13:02:15 
+
+WARNING: Sheet 1/1: POWER Pin IC1 VCC connected to +5V
+WARNING: Sheet 1/1, Net N$10: missing Junction at (3 3.5)
+WARNING: Sheet 1/1, Net N$11: missing Junction at (3.8 2.5)
+
+Board and schematic are consistent
+
+    0 errors
+    3 warnings

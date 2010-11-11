@@ -1,0 +1,28 @@
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for /home/dimka/eagle/EvoBoard/evoboard.sch at 10/13/2007 15:59:41 
+
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF0(ADC0)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF1(ADC1)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF2(ADC2)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF3(ADC3)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF4(ADC4/TCK)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF5(ADC5/TMS)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF6(ADC6/TDO)
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PF7(ADC7/TDI)
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 AVCC
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 AGND
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 AREF
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 VCC
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 VCC
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 GND
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 GND
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 RESET
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 PEN
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC2 GND
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC2 VCC
+
+No board loaded - consistency has not been checked
+
+   19 errors
+    0 warnings

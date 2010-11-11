@@ -1,0 +1,28 @@
+[Eagle]
+Version="04 16 10"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/con-lstb.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/crystal.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/led.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/supply1.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/supply2.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/switch-dil.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/Dimka/avr.lbr"
+UsedLibrary="C:/Program Files/eagle-win-eng-4.16r1/lbr/Dimka/sw+but.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="154 154 753 553"
+State=1
+Number=0
+
+[Desktop]
+Screen="1024 768"
+Window="Win_1"
