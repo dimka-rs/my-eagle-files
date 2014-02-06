@@ -341,6 +341,7 @@ UsedLibrary="/home/dimka/apps/eagle-6.5.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="/home/dimka/apps/eagle-6.5.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="/home/dimka/apps/eagle-6.5.0/lbr/zetex.lbr"
 UsedLibrary="/home/dimka/apps/eagle-6.5.0/lbr/zilog.lbr"
+UsedLibrary="/home/dimka/eagle/lib/con-lstb.lbr"
 
 [Win_1]
 Type="Control Panel"
