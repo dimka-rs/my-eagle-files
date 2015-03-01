@@ -349,7 +349,7 @@ UsedLibrary="C:/EAGLE-7.2.0/lbr/zilog.lbr"
 [Win_1]
 Type="Control Panel"
 Loc="4 40 1279 983"
-State=3
+State=1
 Number=0
 
 [Desktop]
